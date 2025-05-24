@@ -15,7 +15,7 @@ function cubeOdd(arr) {
     }, 0);
 }
 
-console.log('\n\n<=======================>');
+console.log('\n\n<============Test Cases===========>');
 
 console.log(cubeOdd([1, 2, 3, 4]), 28);
 console.log(cubeOdd([-3,-2,2,3]), 0);
